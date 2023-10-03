@@ -1,0 +1,17 @@
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\bin\Debug\net6.0-windows\Ex Manipulação de Texto.exe
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\bin\Debug\net6.0-windows\Ex Manipulação de Texto.deps.json
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\bin\Debug\net6.0-windows\Ex Manipulação de Texto.runtimeconfig.json
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\bin\Debug\net6.0-windows\Ex Manipulação de Texto.dll
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\bin\Debug\net6.0-windows\ref\Ex Manipulação de Texto.dll
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\bin\Debug\net6.0-windows\Ex Manipulação de Texto.pdb
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\Ex Manipulação de Texto.csproj.AssemblyReference.cache
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\Ex_Manipulação_de_Texto.Form1.resources
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\Ex Manipulação de Texto.csproj.GenerateResource.cache
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\Ex Manipulação de Texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\Ex Manipulação de Texto.AssemblyInfoInputs.cache
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\Ex Manipulação de Texto.AssemblyInfo.cs
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\Ex Manipulação de Texto.csproj.CoreCompileInputs.cache
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\Ex Manipulação de Texto.dll
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\ref\Ex Manipulação de Texto.dll
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\Ex Manipulação de Texto.pdb
+C:\Users\trindadegab\source\repos\Ex Manipulação de Texto\Ex Manipulação de Texto\obj\Debug\net6.0-windows\Ex Manipulação de Texto.genruntimeconfig.cache
